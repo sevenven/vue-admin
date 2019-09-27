@@ -1,0 +1,39 @@
+{
+  "goodsData": [{
+    "date": "2019-05-03",
+    "goodsName": "薯片",
+    "goodsType": "膨化食品",
+    "shelfLife": "6个月",
+    "flavour": "青瓜味"
+  }, {
+    "date": "2019-05-02",
+    "goodsName": "薯片",
+    "goodsType": "膨化食品",
+    "shelfLife": "6个月",
+    "flavour": "青瓜味"
+  }, {
+    "date": "2019-05-04",
+    "goodsName": "薯片",
+    "goodsType": "膨化食品",
+    "shelfLife": "6个月",
+    "flavour": "青瓜味"
+  }, {
+    "date": "2019-05-01",
+    "goodsName": "薯片",
+    "goodsType": "膨化食品",
+    "shelfLife": "6个月",
+    "flavour": "青瓜味"
+  }, {
+    "date": "2019-05-08",
+    "goodsName": "薯片",
+    "goodsType": "膨化食品",
+    "shelfLife": "6个月",
+    "flavour": "青瓜味"
+  }, {
+    "date": "2019-05-06",
+    "goodsName": "薯片",
+    "goodsType": "膨化食品",
+    "shelfLife": "6个月",
+    "flavour": "青瓜味"
+  }]
+}

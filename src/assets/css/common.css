@@ -1,0 +1,16 @@
+.conditions .el-input {
+  width: 220px;
+}
+.opts {
+  padding: 10px 0;
+  border-bottom: 1px solid #DCDFE6;
+}
+.opts .upload-demo {
+  display: inline-block;
+}
+.el-table + .el-pagination {
+  margin-top: 10px;
+}
+.el-link {
+  margin-right: 5px;
+}
